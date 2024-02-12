@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.custom-form {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+label {
+    display: inline-block;
+    width: 150px;
+}
